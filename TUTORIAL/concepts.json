@@ -1,0 +1,22 @@
+[
+  {
+    "comment_only_for_dev": "ПРИМЕР КОНЦЕПТА ДЛЯ ТЕМЫ \"Статья пример\"",
+    "meow": "(=^-ω-^=)",
+    "UwU": "ฅ•ω•ฅ",
+    "comment_only_for_dev_": "УДАЛИТЬ БЛОК В НАСТОЯЩЕМ!!!!!!!!!!!!!!!!!"
+  },
+  {
+    "id": "TUTORIAL/how_write_article",
+    "description": "Как писать статьи",
+    "lemmas": ["md", "mardown", "tutorial", "Как писать статьи", "оформление", "инструкция", "правила"],
+    "name": "How write articles",
+    "file": "TUTORIAL/how_write_article/how_write_articles.md"
+  },
+  {
+    "id": "TUTORIAL/cucumbers",
+    "description": "огурцы",
+    "lemmas": ["огурцы", "овощи", "овощ", "ботаника", "растения"],
+    "name": "cucumbers",
+    "file": "TUTORIAL/cucumbers/cucumbers.md"
+  }
+]

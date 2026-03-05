@@ -1,8 +1,8 @@
 -------------
-Id: example/1state
-Name: example
-Description: 
-Lemmas: []
+Id: TUTORIAL/how_write_articles   
+Name: How write articles    
+Description: Как писать статьи  
+Lemmas: ["md", "mardown", "tutorial"]   
 -------------
 
 # Статья пример
